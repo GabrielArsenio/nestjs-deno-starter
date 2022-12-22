@@ -1,0 +1,7 @@
+{
+  "imports": {
+    "@nestjs/common": "npm:@nestjs/common@^9.0.0",
+    "@nestjs/core": "npm:@nestjs/core@^9.0.0",
+    "@nestjs/platform-express": "npm:@nestjs/platform-express@^9.0.0"
+  }
+}
